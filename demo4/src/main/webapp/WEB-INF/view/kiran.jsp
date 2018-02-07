@@ -6,7 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome to Git world
+to pull this project
 
 </body>
 </html>
