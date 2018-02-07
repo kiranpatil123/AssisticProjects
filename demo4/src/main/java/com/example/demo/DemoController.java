@@ -9,6 +9,7 @@ public class DemoController {
 
 	@RequestMapping(value="/hi")
 	public String myMethod(){
+		
 		//ModelAndView model=new ModelAndView("index");
 		return "index.html";
 		
